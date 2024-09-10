@@ -1,0 +1,19 @@
+body {
+    background-color: beige;
+}
+header {
+    text-align: Center;
+    background-color: rgb(145, 230, 145);
+}
+nav {
+    color:blue;
+    text-align: right;
+}
+main {
+    text-align: center;
+    color:brown;
+}
+footer {
+    text-align: center;
+    background-color: orange;
+}
